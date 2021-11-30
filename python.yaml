@@ -1,0 +1,4 @@
+name: Berry
+channels:
+  - defaults
+prefix: /Users/clairescott/opt/anaconda3/envs/Berry
